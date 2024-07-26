@@ -4,7 +4,7 @@ This was from YT video, is not an incredible rice, just a starting point.
 
 If you want a videoguide, just go to my YT channel • [MeraMadness](https://www.youtube.com/watch?v=jT6yYftI79g&lc=UgyE4DIoUl7Lln8qonZ4AaABAg)
 
-I did a minimal install of Fedora 40 using the Fedora Everything ISO [LINK](https://alt.fedoraproject.org/en/)
+I did a minimal install of Fedora 40 using the Fedora Everything ISO •[LINK](https://alt.fedoraproject.org/en/)
 
 What you need? - Time, a bit of patience and a lot of dependencies.
 
